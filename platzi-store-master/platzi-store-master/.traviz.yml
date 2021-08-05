@@ -13,6 +13,7 @@ notifications:
   email: 
     recipients:
       - nataliamacias1000@gmail.com
+      
     on_success: always
     on_failure: always
 deploy:
